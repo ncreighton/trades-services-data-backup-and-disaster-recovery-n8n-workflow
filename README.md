@@ -1,2 +1,28 @@
-# trades-services-data-backup-and-disaster-recovery-n8n-workflow
-Automated backups across platforms, integrity checks, and one-click restoration. Sleep at night knowing your data is safe.
+# Trades & Services Data Backup and Disaster Recovery N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28EcN5h1B2k4g885bud0i3D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28EcN5h1B2k4g885bud0i3D)
+
